@@ -1,1 +1,7 @@
 Selamat datang di GDGoC Unhas!
+
+git add
+git branch
+git commit -m ""
+git checkout
+git merge
