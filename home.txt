@@ -5,3 +5,4 @@ git branch        = membuat branch
 git commit -m ""  = memasukkan yang telah di isi
 git checkout      = ganti branch atau ke main
 git merge         = menggabungkan
+git push          = memasukkan ke github
