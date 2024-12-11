@@ -1,7 +1,7 @@
 Selamat datang di GDGoC Unhas!
 
-git add
-git branch
-git commit -m ""
-git checkout
-git merge
+git add           = menambahkan isi
+git branch        = membuat branch
+git commit -m ""  = memasukkan yang telah di isi
+git checkout      = ganti branch atau ke main
+git merge         = menggabungkan
